@@ -1,3 +1,3 @@
 <?php
-	echo "Helle FGate!";
+	echo "Hello FGate!";
 ?>
